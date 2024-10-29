@@ -10,7 +10,7 @@ A grid layout inspired by Apple Weather app.
 You can add RelaxedGrid to an Xcode project by adding it as a package dependency.
 
 1. From the File menu, select Add Package Dependencies...
-2. Enter "https://github.com/vyacheslavskiy/relaxed-grid" into the package repository URL text field
+2. Enter "https://github.com/vyacheslavskiy/RelaxedGrid" into the package repository URL text field
 3. add RelaxedGrid directly to your application
 
 ## Usage
